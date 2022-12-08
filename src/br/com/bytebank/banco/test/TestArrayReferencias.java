@@ -11,6 +11,7 @@ public class TestArrayReferencias {
 		
 		//int[] idades = new int[5];
 		Object[] referencias = new Object[5];
+		 
 		
 		System.out.println(referencias.length);
 		
